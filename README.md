@@ -1,2 +1,11 @@
-# ghanaian-day-name-c
-A beginner-friendly C program that outputs Ghanaian Akan day names based on birth day and gender.
+# Ghanaian Day Name in C
+
+This project is a simple C program that determines a person's Ghanaian
+Akan day name based on the day they were born and their gender.
+
+## Features
+- Uses `switch` and `if/else`
+- Accepts user input from the terminal
+- Beginner-friendly C syntax
+
+
